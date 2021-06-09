@@ -25,17 +25,18 @@
                     
                 </div> <!-- form-group// -->
 
-                <div class="form-group input-group">
+               
                     <div class="input-group-prepend">
+                    <input name="email" class="form-control" placeholder="Full name" type="text">
 		                <span class="input-group-text"> <i class="fa fa-user"></i> </span>
 		            </div>
-                    <input name="email" class="form-control" placeholder="Full name" type="text">
-                </div> <!-- form-group// -->
+                    
+                 <!-- form-group// -->
 
                 <div class="form-group input-group">
-                    <div class="input-group-prepend">
+            
 		                <span class="input-group-text"> <i class="fa fa-user"></i> </span>
-		            </div>
+		          
                     <input name="phone" class="form-control" placeholder="Full name" type="text">
                 </div> <!-- form-group// -->
 
