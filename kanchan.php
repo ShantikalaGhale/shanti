@@ -72,7 +72,7 @@
 
     <div class="form-group input-group">
     	<div class="input-group-prepend">
-		    <span class="input-group-text"> <i class="fa fa-user"></i></i> </span>
+		    <span class="input-group-text"> <i class="fa fa-user"></i></span>
 		</div>
 		<select class="form-control">
 			<option selected> Select user type</option>
