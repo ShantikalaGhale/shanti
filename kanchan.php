@@ -52,11 +52,14 @@
 <div class="form-check-inline">
     	<label>Gender: </label>
     </div>
-    	<div class="form-check-inline">
-      <label class="form-check-label" for="radio2">Male
-        <input type="radio" class="form-check-input" name="optradio" value="option2">
-      </label>
-    </div>
+    	
+	    <div class="form-check-inline">↩
+↩
+<input type="radio" id="form-check-input" name="optradio" value="option2">↩
+<label for="form-check-input">Male</label>↩
+↩
+    </div>↩
+	    
     <div class="form-check-inline">
       <label class="form-check-label" for="radio2">
         <input type="radio" class="form-check-input" name="optradio" value="option2">Female
