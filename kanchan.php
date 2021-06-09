@@ -53,23 +53,20 @@
     	<label>Gender: </label>
     </div>
     	
-	    <div class="form-check-inline">↩
-↩
+	    <div class="form-check-inline">
 <input type="radio" id="form-check-input" name="optradio" value="option2">↩
 <label for="form-check-input">Male</label>↩
-↩
     </div>↩
 	    
     <div class="form-check-inline">
-      <label class="form-check-label" for="radio2">
-        <input type="radio" class="form-check-input" name="optradio" value="option2">Female
-      </label>
-    </div>
+<input type="radio" id="form-check-input" name="optradio" value="option2">↩
+<label for="form-check-input">Female</label>↩
+↩ </div>↩
+	    
     <div class="form-check-inline">
-      <label class="form-check-label" for="radio2">
-        <input type="radio" class="form-check-input" name="optradio" value="option3">Others
-      </label>
-    </div>
+<input type="radio" id="form-check-input" name="optradio" value="option2">↩
+<label for="form-check-input">Others</label>↩
+↩</div>↩
     </div>
 
 
