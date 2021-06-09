@@ -20,8 +20,9 @@
                 <div class="form-group input-group">
                     <div class="input-group-prepend">
 		                <span class="input-group-text"> <i class="fa fa-user"></i> </span>
+                        <input name="name" class="form-control" placeholder="Full name" type="text">
 		            </div>
-                    <input name="name" class="form-control" placeholder="Full name" type="text">
+                    
                 </div> <!-- form-group// -->
 
                 <div class="form-group input-group">
@@ -50,18 +51,16 @@
                         <label>Gender: </label>
                     </div>
                     <div class="form-check-inline">
-                        <input type="radio" id="form-check-input" name="optradio" value="option2"">
+                        <input type="radio" id="form-check-input" name="optradio" value="option2">
                         <label for="form-check-input">Male</label>
                     </div>
                     <div class="form-check-inline">
-                        <label class="form-check-label" for="radio2"> 
-                            <input type="radio" class="form-check-input" name="optradio" value="option2">Female
-                        </label>
+                        <input type="radio" id="form-check-input" name="optradio" value="option2">
+                        <label for="form-check-input">Female</label>
                     </div>
                     <div class="form-check-inline">
-                        <label class="form-check-label" for="radio2"> 
-                            <input type="radio" class="form-check-input" name="optradio" value="option2">Others
-                        </label>
+                        <input type="radio" id="form-check-input" name="optradio" value="option2">
+                        <label for="form-check-input">Others</label>
                     </div>
                 </div>
                 <div class="form-group input-group">
